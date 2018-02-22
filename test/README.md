@@ -1,1 +1,1 @@
-![alt text](test/upload.PNG)
+![alt text](./test/upload.PNG)
